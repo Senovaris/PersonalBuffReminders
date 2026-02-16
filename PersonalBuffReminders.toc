@@ -1,0 +1,23 @@
+## Interface: 120001, 120000
+## Title: |cff00d9ffPersonal Buff Reminders|r
+## Notes: Tracks missing personal buffs
+## Author: Aurs
+## Category: Aurs UI
+## Version: 1.1
+## IconTexture: Interface\Addons\PersonalBuffReminders\Media\icon.png
+## SavedVariables: AursBRDB
+
+# Libs
+libs\LibStub\LibStub.lua
+libs\LibEditMode\embed.xml
+
+Database.lua
+Config.lua
+ClassCheck.lua
+FrameBuilder.lua
+Frames.lua
+BagScanner.lua
+Scan.lua
+BuffCheck.lua
+Counter.lua
+Core.lua
