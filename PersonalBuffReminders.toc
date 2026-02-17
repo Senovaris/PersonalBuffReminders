@@ -3,9 +3,11 @@
 ## Notes: Tracks missing personal buffs
 ## Author: Aurs
 ## Category: Aurs UI
-## Version: 1.1
+## Version: @project-version@
 ## IconTexture: Interface\Addons\PersonalBuffReminders\Media\icon.png
 ## SavedVariables: AursBRDB
+
+## X-Wago-ID: 4N2k406L
 
 # Libs
 libs\LibStub\LibStub.lua
