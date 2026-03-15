@@ -5,3 +5,7 @@ tag: 1.0
 libs/LibEditMode:
 url: https://github.com/p3lim-wow/LibEditMode
 tag: latest
+
+changelog-title: Personal Buff Reminders
+changelog-type: markdown
+changelog-file: CHANGELOG.md
