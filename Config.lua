@@ -26,9 +26,7 @@ buffsToTrack = {
   {
     name = "Rune",
     searchTerms = {
-      "Void-Touched Augment Rune",
-      "augmentation",
-      "augment",
+      "void%-touched",
       "crystallization",
     },
     icon = "Interface/Icons/INV_Misc_Gem_AzureDraenite_01",
@@ -98,6 +96,13 @@ buffsToTrack = {
     searchTerms = { "earth shield" },
     icon = "Interface/Icons/Spell_Nature_SkinOfEarth",
     classes = { "SHAMAN" },
+    selfOnly = true,
+  },
+  {
+    name = "Symbiotic Relationship",
+    searchTerms = { "symbiotic relationship" },
+    icon = "Interface/Icons/ability_druid_focusedgrowth",
+    classes = { "DRUID" },
     selfOnly = true,
   },
 }
