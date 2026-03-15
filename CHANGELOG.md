@@ -1,4 +1,4 @@
-## [1.3] - 2026-03-15
+## [1.4] - 2026-03-15
 ### Added
 - Symbiotic Relationship added for Druids
 
