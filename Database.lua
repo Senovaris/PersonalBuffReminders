@@ -1,4 +1,2 @@
-AursBRDB = AursBRDB or {
-  buffRemindersEnabled = true
-}
+AursBRDB = AursBRDB or {}
 

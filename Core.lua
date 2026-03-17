@@ -36,7 +36,7 @@ local function EnsureLayoutStorage(layoutName)
 end
 
 eventFrame:SetScript("OnEvent", function(_, event, unit)
-  if not AursBRDB.buffRemindersEnabled then return end
+  --  if not AursBRDB.buffRemindersEnabled then return end
 
   if event == "PLAYER_ENTERING_WORLD" then
     if IsSafeToUpdate() then
