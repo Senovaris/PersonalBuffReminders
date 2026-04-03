@@ -1,3 +1,5 @@
+# This AddOn will no longer be updated or maintaned!
+
 # Personal Buff Reminders
 ![Version](https://img.shields.io/github/v/tag/Senovaris/PersonalBuffReminders?label=version)
 ![CurseForge](https://img.shields.io/curseforge/dt/1460092?label=CurseForge)
